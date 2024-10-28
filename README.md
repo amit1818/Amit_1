@@ -1,4 +1,4 @@
 # Amit_1
 This is my first repository.
 <br>
-Author: Amit Pradhan
+Author: Amit Kumar Pradhan
